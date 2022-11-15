@@ -34,7 +34,7 @@ function powder_news_register_block_styles() {
 
 	$block_styles = array(
 		'core/navigation-link' => array(
-			'fill' => __( 'Fill', 'powder' ),
+			'fill' => __( 'Fill', 'powder-news' ),
 		),
 	);
 
