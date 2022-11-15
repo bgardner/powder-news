@@ -19,7 +19,12 @@ add_action( 'after_setup_theme', 'powder_news_setup' );
  */
 function powder_news_enqueue_style_sheet() {
 
-  wp_enqueue_style( 'powder-news', get_stylesheet_directory_uri() . '/style.css', array(), wp_get_theme()->get( 'Version' ) );
+	wp_enqueue_style(
+		'powder-news',
+		get_stylesheet_directory_uri() . '/style.css',
+		array(),
+		wp_get_theme()->get( 'Version' )
+	);
 
 }
 add_action( 'wp_enqueue_scripts', 'powder_news_enqueue_style_sheet', 15 );
