@@ -7,7 +7,7 @@ Description: Powder News is a base WordPress block theme that is ideal for newsl
 Requires at least: 6.1
 Tested up to: 6.1
 Requires PHP: 5.6
-Version: 0.5.1
+Version: 0.5.2
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: powder-news
@@ -76,11 +76,11 @@ Powder News is distributed under the terms of the GNU GPL.
 
 	/* Navigation Link
 	--------------------------------------------- */
-	
+
 	.wp-block-navigation-item.is-style-fill a {
 		background-color: var(--wp--preset--color--primary);
 		border-radius: 8px;
-		color: var(--wp--preset--color--base);
+		color: var(--wp--preset--color--base) !important;
 		font-weight: var(--wp--custom--font-weight--regular);
 		line-height: var(--wp--custom--line-height--medium);
 		padding: 12px 25px;
