@@ -11,8 +11,8 @@
 <div class="wp-block-group alignfull is-style-pull-100 has-base-color has-contrast-background-color has-text-color has-background has-link-color has-x-small-font-size" style="padding-top:200px;padding-bottom:100px">
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"60px"}}}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:60px">
-<!-- wp:image {"align":"center","id":7,"width":32,"height":40,"sizeSlug":"full","linkDestination":"custom"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://powder.design/"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/site-logo.png'; ?>" alt="Powder News" class="wp-image-7" width="32" height="40"/></a></figure>
+<!-- wp:image {"align":"center","id":7,"width":36,"height":48,"sizeSlug":"full","linkDestination":"custom"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://powder.design/"><img src="<?php echo esc_url( get_theme_file_uri() ) . '/assets/images/site-logo.png'; ?>" alt="Powder News" class="wp-image-7" width="36" height="48"/></a></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><?php echo esc_html__( 'Made with Powder', 'powder-news' ); ?></p>
