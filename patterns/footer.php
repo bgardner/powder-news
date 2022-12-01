@@ -2,7 +2,7 @@
 /**
  * Title: Footer with site title, text, links.
  * Slug: powder/footer
- * Categories: powder-footer
+ * Categories: footer
  * Block Types: core/template-part/footer
  * Viewport Width: 1280
  */
