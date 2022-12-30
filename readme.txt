@@ -3,13 +3,17 @@ Contributors: bgardner
 Requires at least: 6.1
 Tested up to: 6.1
 Requires PHP: 5.6
-Stable tag: 0.5.3
+Stable tag: 0.5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
 Powder News is a base WordPress block theme that is ideal for newsletters or websites that are light in content. With the Featured Image block leading the way, showcase your favorite words and stylish buttons in the sophisticated footer.
+
+= 0.5.4 =
+
+Add Outline block style to Social Icons.
 
 = 0.5.3 =
 

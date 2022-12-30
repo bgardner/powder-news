@@ -41,6 +41,9 @@ function powder_news_register_block_styles() {
 		'core/navigation-link' => array(
 			'fill' => __( 'Fill', 'powder-news' ),
 		),
+		'core/social-links' => array(
+			'outline' => __( 'Outline', 'powder-news' ),
+		),
 	);
 
 	foreach ( $block_styles as $block => $styles ) {
